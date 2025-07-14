@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ITSpecialist" target="_blank">
-    <img src="https://img.shields.io/badge/Buy&nbsp;me&nbsp;a&nbsp;coffee-Support&nbsp;Dev-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Buy Me A Coffee">
-  </a>
-</p>
-
 # AI Automation Suggester
 
 [![Validate with hassfest](https://img.shields.io/github/actions/workflow/status/ITSpecialist111/ai_automation_suggester/hassfest.yaml?style=for-the-badge)]()
